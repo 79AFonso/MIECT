@@ -1,0 +1,17 @@
+		ICMP Echo Request PC1←→ESW1
+
+Ethernet packet header 	Source MAC Address:00:50:79:66:68:00
+			Destination MAC Address:ca:01:0c:9b:00:08
+
+IPv4 packet header 	Source IP Address:
+			Destination IP Address:
+
+
+			
+		ICMP Echo Reply
+
+Ethernet packet header 	Source MAC Address:
+			Destination MAC Address:
+
+IPv4 packet header	Source IP Address:
+			Destination IP Address:
